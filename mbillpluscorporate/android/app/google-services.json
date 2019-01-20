@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "504852426053",
+    "firebase_url": "https://mbillpluscorporate.firebaseio.com",
+    "project_id": "mbillpluscorporate",
+    "storage_bucket": "mbillpluscorporate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504852426053:android:6f267ccaac24c45d",
+        "android_client_info": {
+          "package_name": "mbillpluscorporate.bd.com.srl.mbillpluscorporate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504852426053-qrto8tr9f6v0b9fr41jjintmt18du6i0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mbillpluscorporate.bd.com.srl.mbillpluscorporate",
+            "certificate_hash": "35191f196dd7797ce81b2b4e6912f5d5f7870a97"
+          }
+        },
+        {
+          "client_id": "504852426053-souneal2osjbpv6q3c4ljlvedkiejpjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGRctHhseRa9l5zk3_3b92Yy4WrxMdpmw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504852426053-souneal2osjbpv6q3c4ljlvedkiejpjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
